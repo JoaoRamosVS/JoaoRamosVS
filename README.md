@@ -1,11 +1,28 @@
-### Hi there 👋
+### Olá, sou o João Vitor!
+# Bem vindo ao meu GitHub ✨
+Sou um desenvolvedor junior back-end aspirante a fullstack, com três anos de experiência em programação. Estou constantemente buscando aprender e crescer na minha carreira, explorando novas tecnologias e trabalhando em projetos desafiadores. Sou apaixonado por resolver problemas complexos e colaborar com outros desenvolvedores para criar novas soluções. Estou animado para continuar minha jornada no mundo da tecnologia e contribuir para projetos que fazem a diferença.
+
+## Ferramentas e Tecnologias
+<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI86MhVaQiC8bL2HKhHHe-Bst_NKBEi26aTPKw_3ssoA&s" width="40" height="40" loading="lazy"/> <img  width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+          
+          
+          
+          
+          
+          
+          
+          
+
+### Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" loading="lazy" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
+          
 
 <!--
-**JoaoRamosVS/JoaoRamosVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
