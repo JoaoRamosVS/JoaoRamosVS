@@ -1,6 +1,6 @@
 ### Olá, sou o João Vitor!
 # Bem vindo ao meu GitHub ✨
-Sou um desenvolvedor junior back-end aspirante a fullstack, com três anos de experiência em programação. Estou constantemente buscando aprender e crescer na minha carreira, explorando novas tecnologias e trabalhando em projetos desafiadores. Sou apaixonado por resolver problemas complexos e colaborar com outros desenvolvedores para criar novas soluções. Estou animado para continuar minha jornada no mundo da tecnologia e contribuir para projetos que fazem a diferença.
+Sou um desenvolvedor junior back-end aspirante a fullstack, com três anos de experiência em programação. Amo música e programar com meus amigos!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Vitor-0894FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JoaoRamosVS/)](https://www.linkedin.com/in/JoaoRamosVS/)
 [![Gmail Badge](https://img.shields.io/badge/-jvsrdez@hotmail.com-0894FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvsrdez@hotmail.com)](mailto:jvsrdez@hotmail.com)
